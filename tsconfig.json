@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "outDir": "compiled",
+    "target": "es6",
+    "module": "esnext",
+    "removeComments": true,
+    "noEmitOnError": true,
+    "strict": true
+  },
+  "include": ["index.ts"]
+}
